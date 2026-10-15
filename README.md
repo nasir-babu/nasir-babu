@@ -22,6 +22,15 @@
 
 ---
 
+
+### 🌱 Current Activities
+- 🔭 **Working on:** End-to-end full-stack web applications and civic service solutions.
+- 🚀 **Exploring:** Next.js Server Actions, Advanced TypeScript, and Performance Optimization.
+- 🎯 **Current Goal:** Delivering production-ready web platforms with modern UI/UX.
+
+---
+
+
 ### 🤝 Connect with Me
 
 <p align="left">
